@@ -1,1 +1,1 @@
-# budget
+A simple budgeting app.
